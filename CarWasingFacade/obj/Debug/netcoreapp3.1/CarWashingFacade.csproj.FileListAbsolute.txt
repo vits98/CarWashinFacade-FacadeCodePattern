@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\bin\Debug\netcoreapp3.1\CarWashingFacade.exe
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\bin\Debug\netcoreapp3.1\CarWashingFacade.deps.json
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\bin\Debug\netcoreapp3.1\CarWashingFacade.runtimeconfig.json
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\bin\Debug\netcoreapp3.1\CarWashingFacade.runtimeconfig.dev.json
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\bin\Debug\netcoreapp3.1\CarWashingFacade.dll
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\bin\Debug\netcoreapp3.1\CarWashingFacade.pdb
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\obj\Debug\netcoreapp3.1\CarWashingFacade.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\obj\Debug\netcoreapp3.1\CarWashingFacade.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\obj\Debug\netcoreapp3.1\CarWashingFacade.AssemblyInfo.cs
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\obj\Debug\netcoreapp3.1\CarWashingFacade.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\obj\Debug\netcoreapp3.1\CarWashingFacade.dll
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\obj\Debug\netcoreapp3.1\CarWashingFacade.pdb
+C:\Users\victo\source\repos\CarWasingFacade\CarWasingFacade\obj\Debug\netcoreapp3.1\CarWashingFacade.genruntimeconfig.cache
